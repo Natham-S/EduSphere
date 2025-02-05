@@ -1,8 +1,35 @@
 # edusphere
 ![logo](https://github.com/user-attachments/assets/656226ca-6cef-4a75-a566-1b34935b289c)
 
+## 📌 Introduction
+The **Secure Learning Management System (LMS)** is a highly secure and scalable platform designed for educational institutions and online learning platforms. It ensures data privacy, role-based access control, and seamless course management.
 
-A DRM service platform that enables content creators and platforms to securely distribute video content while preventing unauthorized access, piracy, and screen recording.
+## 🚀 Features
+- 🔐 **Secure User Authentication** (JWT-based authentication, OAuth2 support)
+- 🎓 **Course Management** (Create, edit, delete, and manage courses)
+- 👨‍🏫 **Role-Based Access Control** (Admins, Instructors, and Students)
+- 📂 **Content Protection** (DRM for video lectures, encrypted file storage)
+- 📈 **Analytics & Reporting** (Student progress tracking, instructor dashboards)
+- 📡 **Scalability** (Optimized backend to handle thousands of concurrent users)
+
+## 🛠️ Tech Stack
+- **Frontend:** ReactJS, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Authentication:** JWT, OAuth2
+- **Cloud & Deployment:** AWS (EC2, S3, Lambda), Docker, Kubernetes
+- **Security:** AES Encryption, DRM for videos, HTTPS enforcement
+
+## 🏗️ Installation
+### Prerequisites
+- Node.js & npm installed
+- Sqlite Setup
+
+
+## 🛡️ Security Measures
+- End-to-end encryption for user data
+- Secure API endpoints with rate limiting
+- DRM integration for secure video streaming
+- Role-based access control to restrict unauthorized actions
 
 <div style="display: flex;">
     <img src="https://github.com/user-attachments/assets/803e8367-a69a-4fe2-a6bf-150c955ef79c" alt="2" height="500">
